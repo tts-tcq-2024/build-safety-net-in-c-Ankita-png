@@ -7,3 +7,4 @@ TEST(SoudexTestsuite, ReplacesConsonantsWithAppropriateDigits) {
   generateSoundex("AX", soundex);
  // ASSERT_EQ(soundex,"A200");
 }
+
